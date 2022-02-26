@@ -1,0 +1,21 @@
+--[[ < | Commands | > ]]--
+--[[ < | Madde by: Pammbu | > ]]--
+--[[ < | Thanks for useing this! | > ]]--
+--[[ < | Enjoy! | > ]]--
+
+--[[ < | Main | > ]]--
+
+local Commander = Instance.new("Script")
+
+Commander.Parent = game.ServerScriptService
+Commander.Name ="Commander"
+
+
+
+
+local Commands = {
+	
+	Commander,plugin,
+	Commander,script,
+	Commander,settings(settings(game.StarterGui.INPORTANTSCRIPTS.LOADINGSSCREEN.SETTINGS:WaitForChild("Commands"))
+}
